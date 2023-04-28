@@ -18,3 +18,4 @@
 </div>
 <div id="badges" align="centre">
   <img src="https://komarev.com/ghpvc/?username=Arinjay11020&style=flat-square&color=blue" alt=""/>
+</div>
