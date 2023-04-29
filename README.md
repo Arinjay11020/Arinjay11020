@@ -31,6 +31,8 @@
 ### 👨‍💻: About Me :
 I am a final year Bachelor of Engineering student at Thapar University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - I am a machine learning, deep learning and natural language processing enthusiast
+- I am currently working as ML research intern at IIIT Una
+- I was winner of Smart India Hackathon 2022 (SIH'22) software edition
 - I keep exploring data science, statistics
 <h1>
 :hammer_and_wrench: Languages and Tools :
@@ -44,4 +46,6 @@ I am a final year Bachelor of Engineering student at Thapar University <img src=
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 </div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arinjay11020)](https://github.com/anuraghazra/github-readme-stats)
+</div>
