@@ -45,6 +45,7 @@ I am a final year Bachelor of Engineering student at Thapar University <img src=
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
-  <img src="https://www.google.com/search?q=nltk&rlz=1C1CHBF_enIN865IN865&sxsrf=APwXEdePedv9ZmLNYlbiS4TnHZ-XqSyesw:1682805106271&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjajNfEidD-AhUmRmwGHQudBpkQ_AUoAXoECAEQAw&biw=1536&bih=746&dpr=1.25#imgrc=ZvC5ouXrzGT33M" title="NLTK" alt="NLTK" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/Arinjay11020/Arinjay11020/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-Learn" alt="Scikit-Learn" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/Arinjay11020/Arinjay11020/blob/main/4rz47l767g96lws0m73g.png" title="NLTK" alt="NLTK" width="80" height="80"/>&nbsp;
 </div>
 
