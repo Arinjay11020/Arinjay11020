@@ -47,5 +47,6 @@ I am a final year Bachelor of Engineering student at Thapar University <img src=
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
   <img src="https://github.com/Arinjay11020/Arinjay11020/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-Learn" alt="Scikit-Learn" width="80" height="80"/>&nbsp;
   <img src="https://github.com/Arinjay11020/Arinjay11020/blob/main/4rz47l767g96lws0m73g.png" title="NLTK" alt="NLTK" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/Arinjay11020/Arinjay11020/blob/main/hugging-face-vector-logo.png" title="Huggingface" alt="Huggingface" width="80" height="80"/>&nbsp;
 </div>
 
