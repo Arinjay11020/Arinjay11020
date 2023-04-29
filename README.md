@@ -27,7 +27,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-### 👨‍💻_technologist: About Me :
+
+### 👨‍💻: About Me :
 <h1>
 :hammer_and_wrench: Languages and Tools :
 </h1>
