@@ -29,9 +29,9 @@
 ---
 
 ### 👨‍💻: About Me :
-I am a 2023 CS graduate Bachelor of Engineering student at Thapar University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a 2023 BE CS graduate Bachelor from Thapar University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - I am a machine learning, deep learning and natural language processing enthusiast
-- I am currently working as Research Scientist at Laboratory for Computational Social Systems (LCS2), IIT Delhi
+- I am currently working as Research Scientist at Laboratory for Computational Social Systems (LCS2), IIT Delhi, under the guidance of Prof Tanmoy Chakraborty
 - I was winner of Smart India Hackathon 2022 (SIH'22) software edition
 - I keep exploring data science, statistics
 <h1>
